@@ -2,14 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FourteenTsuki.github.io</id>
     <title>Gridea</title>
-    <updated>2020-10-18T02:44:42.660Z</updated>
+    <updated>2020-10-24T13:35:25.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://FourteenTsuki.github.io"/>
     <link rel="self" href="https://FourteenTsuki.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>苍山负雪，明烛天南。</subtitle>
     <logo>https://FourteenTsuki.github.io/images/avatar.png</logo>
     <icon>https://FourteenTsuki.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[末班0202]]></title>
+        <id>https://FourteenTsuki.github.io/post/mo-ban-0202/</id>
+        <link href="https://FourteenTsuki.github.io/post/mo-ban-0202/">
+        </link>
+        <updated>2020-10-18T03:17:24.000Z</updated>
+        <summary type="html"><![CDATA[<p>高二平淡的周末突发奇想的博客（居然是因为SHU的生日才想着要记录一下自己生活，不过也挺好，没有熟人会看到的，属于自己的博客，とても幸せ<br>
+所以现在 祝小王子生日快乐！！！❤️(HAPPY BIRTHDAY TO SHUUUUUU!!!!!!!!</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>高二平淡的周末突发奇想的博客（居然是因为SHU的生日才想着要记录一下自己生活，不过也挺好，没有熟人会看到的，属于自己的博客，とても幸せ<br>
+所以现在 祝小王子生日快乐！！！❤️(HAPPY BIRTHDAY TO SHUUUUUU!!!!!!!!</p>
+<!-- more -->
+<figure data-type="image" tabindex="1"><img src="https://FourteenTsuki.github.io/post-images/1602991930096.png" alt="" loading="lazy"></figure>
+<!-- more -->
+<p>FT's blogs<br>
+START!!!!!!</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://FourteenTsuki.github.io/post/hello-gridea/</id>
